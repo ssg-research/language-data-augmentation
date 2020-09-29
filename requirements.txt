@@ -1,0 +1,10 @@
+bpemb==0.3.0
+fast-bert==1.6.5
+nltk==3.4.5
+numpy==1.17.2
+pandas==1.0.3
+scikit-learn==0.21.3
+scipy==1.4.1
+spacy==2.2.4
+tqdm==4.38.0
+transformers==3.0.2
