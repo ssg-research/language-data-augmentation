@@ -1,0 +1,9 @@
+51c51
+<     if clean_line[0] == ' ':
+---
+>     if clean_line and clean_line[0] == ' ': # ADDED: AVOID INDEX OUT-OF-RANGE ERROR
+173c173,174
+< def eda(sentence, alpha_sr=0.1, alpha_ri=0.1, alpha_rs=0.1, p_rd=0.1, num_aug=9):
+---
+> def eda(sentence, alpha_sr=0.1, alpha_ri=0.1, alpha_rs=0.1, p_rd=0.1, num_aug=9, random_state=20200303):
+> 	random.seed(a=random_state) # ADDED: RANDOM STATE SPECIFICATION FOR COMPARISON
