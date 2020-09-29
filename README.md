@@ -1,7 +1,7 @@
 # 1 Introduction
 
 This readme describes how to reproduce the experiments in the paper:
-[Miak Juuti, Tommi Gröndahl, Adrian Flanagan and N. Asokan. "A little goes a long way: Improving toxic language classification despite data scarcity"](https://arxiv.org/abs/2009.12344).
+[Mika Juuti, Tommi Gröndahl, Adrian Flanagan and N. Asokan. "A little goes a long way: Improving toxic language classification despite data scarcity"](https://arxiv.org/abs/2009.12344).
 
 # 2 Compute hardware requirements
 
