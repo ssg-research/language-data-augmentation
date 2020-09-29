@@ -60,6 +60,6 @@ and extract the directory to ./data/jigsaw-toxic-comment-classification-challeng
 
 >`$ bash get_eda.sh`
 
-# 6 Run experiments in this paper
+# 6 Run experiments
 
 > `cd src && python run_experiments.py`
