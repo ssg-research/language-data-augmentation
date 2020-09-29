@@ -59,11 +59,6 @@ and extract the directory to ./data/jigsaw-toxic-comment-classification-challeng
 
 >`$ bash get_eda.sh`
 
-(Optional) For running PPDB, extract ppdb_equivalent from supplementary_data.zip:
->`$ cd ../..`
-
->`$ unzip supplementary_data.zip`
-
 # 6 Run experiments in this paper
 
 > `cd src && python run_experiments.py`
