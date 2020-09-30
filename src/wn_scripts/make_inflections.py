@@ -1,5 +1,6 @@
 # Copyright (C) 2020 anonymous authors (identities withheld for blind review)
 # License: see LICENSE.txt
+# Author: Tommi Gröndahl
 
 from nltk import pos_tag, sent_tokenize, word_tokenize
 from collections import defaultdict, Counter

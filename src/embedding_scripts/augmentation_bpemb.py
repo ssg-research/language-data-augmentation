@@ -1,5 +1,6 @@
 # Copyright (C) 2020 Secure Systems Group, University of Waterloo and Aalto University
 # License: see README.md
+# Author: Mika Juuti
 
 from bpemb import BPEmb
 from collections import deque

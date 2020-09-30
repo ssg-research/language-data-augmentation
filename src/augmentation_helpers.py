@@ -1,5 +1,6 @@
 # Copyright (C) 2020 Secure Systems Group, University of Waterloo and Aalto University
 # License: see LICENSE.txt
+# Authors: Mika Juuti and Tommi Gröndahl
 
 from nltk import sent_tokenize
 from collections import deque

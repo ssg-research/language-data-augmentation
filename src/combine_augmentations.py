@@ -1,5 +1,6 @@
 # Copyright (C) 2020 Secure Systems Group, University of Waterloo and Aalto University
 # License: see LICENSE.txt
+# Author: Mika Juuti
 
 import pandas as pd
 import os
