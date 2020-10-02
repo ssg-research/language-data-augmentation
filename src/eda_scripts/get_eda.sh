@@ -1,3 +1,5 @@
+# Author: Mika Juuti
+
 # download eda.py
 echo downloading eda.py
 wget https://raw.githubusercontent.com/jasonwei20/eda_nlp/master/code/eda.py -O eda_orig.py
